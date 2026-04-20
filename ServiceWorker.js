@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-Calculator-0.1";
+const cacheName = "DefaultCompany-Calculator-1.0";
 const contentToCache = [
-    "Build/WebglCalculator.loader.js",
-    "Build/WebglCalculator.framework.js.gz",
-    "Build/WebglCalculator.data.gz",
-    "Build/WebglCalculator.wasm.gz",
+    "Build/WebglCalc.loader.js",
+    "Build/WebglCalc.framework.js.unityweb",
+    "Build/WebglCalc.data.unityweb",
+    "Build/WebglCalc.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
